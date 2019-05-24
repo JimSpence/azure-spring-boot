@@ -121,6 +121,7 @@
         <dependency>
             <groupId>com.microsoft.azure</groupId>
             <artifactId>spring-data-cosmosdb</artifactId>
+            <version>2.1.2</version>
             <optional>true</optional>
         </dependency>
 
